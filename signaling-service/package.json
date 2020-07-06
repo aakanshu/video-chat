@@ -1,0 +1,22 @@
+{
+  "name": "signalling-server",
+  "version": "1.0.0",
+  "description": "A socket.io app to act as an signalling server for using video call based on webRTC",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakanshu/video-chat.git"
+  },
+  "author": "Aakanshu Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakanshu/video-chat/issues"
+  },
+  "homepage": "https://github.com/aakanshu/video-chat#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
